@@ -12,3 +12,6 @@ export class Spinner extends Component {
 }
 
 export default Spinner
+
+
+// Commit 2 check
